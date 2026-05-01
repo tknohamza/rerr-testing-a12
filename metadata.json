@@ -1,0 +1,6 @@
+{
+  "name": "Remix: The Mandelbulb Explorer",
+  "description": "A raw WebGL masterpiece featuring a Mandelbulb fractal with overlay fog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
